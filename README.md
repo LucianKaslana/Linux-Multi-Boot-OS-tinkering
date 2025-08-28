@@ -1,4 +1,4 @@
-# Linux-Multi-Boot-OS-tinkering
+### Linux-Multi-Boot-OS-tinkering
 
 There's a saying that "The best teacher is experience", then why not try teaching yourself about Linux in general while installing it manually?
 
